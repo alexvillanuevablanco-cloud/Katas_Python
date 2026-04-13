@@ -1,7 +1,8 @@
 # Katas_Python
 # 🐍 Proyecto Katas Python
 
-**Autor:** Alejandro Villanueva
+**Autor:** Alejandro Villanueva.
+
 **Descripción:** Resolución de 41 katas en Python enfocadas en lógica de programación, estructuras de datos, programación funcional y programación orientada a objetos.
 
 ---
